@@ -8,7 +8,7 @@ conn = pyodbc.connect(
     "SERVER=localhost;"
     "DATABASE=Amazon;"
     "UID=SA;"
-    "PWD=sixteen240CR7;"
+    "PWD=your-password;"
     "TrustServerCertificate=yes;" # to bypass SSL verification
 )
 
